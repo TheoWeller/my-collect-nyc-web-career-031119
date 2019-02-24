@@ -5,4 +5,3 @@ def my_collec(array)
     i+=1
   end
 end
-
