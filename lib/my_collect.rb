@@ -1,4 +1,4 @@
-def my_collec(array)
+def my_collect(array)
   i = 0
   while i < 0
     yield
